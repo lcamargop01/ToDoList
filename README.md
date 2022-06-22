@@ -1,20 +1,20 @@
-# ToDoList
+# ToDo List
 ## Project Description
-A browser-based game where users can create Pac-men and bounce them around the screen. The user has the ability to create, pause, and stop animation.
+A to-do list that can be altered in multiple ways - add new items and delete old. 
 
 ## How To Run
-(1) Download all files from the master branch of this repository into a directory on your local machine
-
-Pacman1.png
-Pacman2.png
-Pacman3.png
-Pacman4.png
-index.html
-pacmen.js
+(1) Download all files from the master branch of this repository into a directory on your local machine 
+<ul>
+  <li> form.js </li>
+  <li> index.js </li>
+  <li> styles.css </li>
+  <li> todo.js </li>
+  <li> index.html </li>
+</ul>
 (2) Open index.html in browser (Google Chrome provides best results)
 
 ## Roadmap
-The next improvement I plan to be working on is for the Pac-men to open and close their mouths as they move. Additionally, I would like the ability to move the pac-men based on where the cursor is.
+The next improvement I plan to be working on is for the the lists to have check marks on the side to easily keep track of completed items. Additionally, I would like the ability to edit the items if something new needs to be added.
 
 ## License
-lcamargop01/PacMen is licensed under the MIT License
+lcamargop01/ToDoList is licensed under the MIT License
